@@ -1,0 +1,3 @@
+C:/Users/THP/Desktop/qt/build-Macros_Templates-Desktop_Qt_5_10_0_MinGW_32bit-Default/CMakeFiles/Macros_Templates.dir
+C:/Users/THP/Desktop/qt/build-Macros_Templates-Desktop_Qt_5_10_0_MinGW_32bit-Default/CMakeFiles/edit_cache.dir
+C:/Users/THP/Desktop/qt/build-Macros_Templates-Desktop_Qt_5_10_0_MinGW_32bit-Default/CMakeFiles/rebuild_cache.dir

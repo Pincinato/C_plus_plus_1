@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/THP/Desktop/qt/Casting/dynamic.h
+iostream
+-
+
+C:/Users/THP/Desktop/qt/Casting/main.cpp
+iostream
+-
+dynamic.h
+C:/Users/THP/Desktop/qt/Casting/dynamic.h
+vector
+-
+string
+-
+iostream
+-
+

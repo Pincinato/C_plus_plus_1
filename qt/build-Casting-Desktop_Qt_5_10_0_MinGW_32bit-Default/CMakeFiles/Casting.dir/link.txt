@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\Casting.dir/objects.a
+C:\Qt\Tools\mingw530_32\bin\ar.exe cr CMakeFiles\Casting.dir/objects.a @CMakeFiles\Casting.dir\objects1.rsp
+C:\Qt\Tools\mingw530_32\bin\g++.exe   -std=c++0x -g   -Wl,--whole-archive CMakeFiles\Casting.dir/objects.a -Wl,--no-whole-archive  -o Casting.exe -Wl,--out-implib,libCasting.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Casting.dir\linklibs.rsp

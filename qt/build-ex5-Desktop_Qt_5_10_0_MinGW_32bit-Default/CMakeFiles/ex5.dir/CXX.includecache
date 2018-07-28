@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/THP/Desktop/qt/ex5/main.cpp
+iostream
+-
+vector.h
+C:/Users/THP/Desktop/qt/ex5/vector.h
+
+C:/Users/THP/Desktop/qt/ex5/vector.cpp
+vector.h
+C:/Users/THP/Desktop/qt/ex5/vector.h
+climits
+-
+
+C:/Users/THP/Desktop/qt/ex5/vector.h
+memory
+-
+iostream
+-
+

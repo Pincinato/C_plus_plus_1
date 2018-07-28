@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/THP/Desktop/qt/ex10/main.cpp
+iostream
+-
+uniqueptr.h
+C:/Users/THP/Desktop/qt/ex10/uniqueptr.h
+sharedptr.h
+C:/Users/THP/Desktop/qt/ex10/sharedptr.h
+
+C:/Users/THP/Desktop/qt/ex10/sharedptr.h
+iostream
+-
+
+C:/Users/THP/Desktop/qt/ex10/uniqueptr.h
+iostream
+-
+

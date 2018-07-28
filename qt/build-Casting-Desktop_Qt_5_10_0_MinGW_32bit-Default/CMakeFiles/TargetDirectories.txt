@@ -1,0 +1,3 @@
+C:/Users/THP/Desktop/qt/build-Casting-Desktop_Qt_5_10_0_MinGW_32bit-Default/CMakeFiles/Casting.dir
+C:/Users/THP/Desktop/qt/build-Casting-Desktop_Qt_5_10_0_MinGW_32bit-Default/CMakeFiles/edit_cache.dir
+C:/Users/THP/Desktop/qt/build-Casting-Desktop_Qt_5_10_0_MinGW_32bit-Default/CMakeFiles/rebuild_cache.dir

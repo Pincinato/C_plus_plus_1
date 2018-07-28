@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ex6"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex6">
+				<Option output="C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default/ex6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default/Makefile&quot;  VERBOSE=1 ex6"/>
+					<CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex6/fast">
+				<Option output="C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default/ex6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default/Makefile&quot;  VERBOSE=1 ex6/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/THP/Desktop/qt/build-ex6-Desktop_Qt_5_10_0_MinGW_32bit-Default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/THP/Desktop/qt/ex6/abc.h">
+			<Option target="ex6"/>
+		</Unit>
+		<Unit filename="C:/Users/THP/Desktop/qt/ex6/account.cpp">
+			<Option target="ex6"/>
+		</Unit>
+		<Unit filename="C:/Users/THP/Desktop/qt/ex6/account.h">
+			<Option target="ex6"/>
+		</Unit>
+		<Unit filename="C:/Users/THP/Desktop/qt/ex6/checkingaccount.cpp">
+			<Option target="ex6"/>
+		</Unit>
+		<Unit filename="C:/Users/THP/Desktop/qt/ex6/checkingaccount.h">
+			<Option target="ex6"/>
+		</Unit>
+		<Unit filename="C:/Users/THP/Desktop/qt/ex6/ex2_4.h">
+			<Option target="ex6"/>
+		</Unit>
+		<Unit filename="C:/Users/THP/Desktop/qt/ex6/main.cpp">
+			<Option target="ex6"/>
+		</Unit>
+		<Unit filename="C:/Users/THP/Desktop/qt/ex6/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/THP/Desktop/qt/ex3/ex3.cpp
+ex3.h
+C:/Users/THP/Desktop/qt/ex3/ex3.h
+
+C:/Users/THP/Desktop/qt/ex3/ex3.h
+string
+-
+vector
+-
+climits
+-
+memory
+-
+algorithm
+-
+iostream
+-
+
+C:/Users/THP/Desktop/qt/ex3/ex3_2.cpp
+ex3_2.h
+C:/Users/THP/Desktop/qt/ex3/ex3_2.h
+
+C:/Users/THP/Desktop/qt/ex3/ex3_2.h
+ex3.h
+C:/Users/THP/Desktop/qt/ex3/ex3.h
+
+C:/Users/THP/Desktop/qt/ex3/main.cpp
+ex3_2.h
+C:/Users/THP/Desktop/qt/ex3/ex3_2.h
+

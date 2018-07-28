@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/THP/Desktop/qt/ex6/abc.h
+
+C:/Users/THP/Desktop/qt/ex6/account.cpp
+account.h
+C:/Users/THP/Desktop/qt/ex6/account.h
+
+C:/Users/THP/Desktop/qt/ex6/account.h
+iostream
+-
+
+C:/Users/THP/Desktop/qt/ex6/checkingaccount.cpp
+checkingaccount.h
+C:/Users/THP/Desktop/qt/ex6/checkingaccount.h
+
+C:/Users/THP/Desktop/qt/ex6/checkingaccount.h
+account.h
+C:/Users/THP/Desktop/qt/ex6/account.h
+
+C:/Users/THP/Desktop/qt/ex6/ex2_4.h
+iostream
+-
+
+C:/Users/THP/Desktop/qt/ex6/main.cpp
+iostream
+-
+checkingaccount.h
+C:/Users/THP/Desktop/qt/ex6/checkingaccount.h
+abc.h
+C:/Users/THP/Desktop/qt/ex6/abc.h
+ex2_4.h
+C:/Users/THP/Desktop/qt/ex6/ex2_4.h
+

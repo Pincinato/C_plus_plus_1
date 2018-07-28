@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/THP/Desktop/qt/SmartPointer/auto_ptr.h
+iostream
+-
+
+C:/Users/THP/Desktop/qt/SmartPointer/main.cpp
+iostream
+-
+memory
+-
+auto_ptr.h
+C:/Users/THP/Desktop/qt/SmartPointer/auto_ptr.h
+

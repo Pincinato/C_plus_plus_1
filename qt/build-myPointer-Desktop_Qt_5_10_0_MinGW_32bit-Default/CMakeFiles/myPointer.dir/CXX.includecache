@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/THP/Desktop/qt/myPointer/main.cpp
+iostream
+-
+pointers.h
+C:/Users/THP/Desktop/qt/myPointer/pointers.h
+
+C:/Users/THP/Desktop/qt/myPointer/pointers.h
+iostream
+-
+
