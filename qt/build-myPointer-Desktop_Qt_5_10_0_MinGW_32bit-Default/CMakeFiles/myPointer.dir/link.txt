@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\myPointer.dir/objects.a
-C:\Qt\Tools\mingw530_32\bin\ar.exe cr CMakeFiles\myPointer.dir/objects.a @CMakeFiles\myPointer.dir\objects1.rsp
-C:\Qt\Tools\mingw530_32\bin\g++.exe   -std=c++0x -g   -Wl,--whole-archive CMakeFiles\myPointer.dir/objects.a -Wl,--no-whole-archive  -o myPointer.exe -Wl,--out-implib,libmyPointer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\myPointer.dir\linklibs.rsp
